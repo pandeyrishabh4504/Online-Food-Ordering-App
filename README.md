@@ -3,6 +3,10 @@
 🚀 **Live Demo:** https://foodapp-2026.vercel.app/  
 📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Online-Food-Ordering-App
 
+
+
+<img width="1860" height="891" alt="Screenshot 2026-02-15 173257" src="https://github.com/user-attachments/assets/0c0bf809-2ab9-43b7-851a-4a686be96bfc" />
+
 ---
 
 ## 📌 About Project
