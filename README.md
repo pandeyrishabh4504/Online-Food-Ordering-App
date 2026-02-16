@@ -1,6 +1,7 @@
 # FoodieHub 🍔🍕
 
 🚀 **Live Demo:** https://foodapp-2026.vercel.app/  
+
 📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Online-Food-Ordering-App
 
 
